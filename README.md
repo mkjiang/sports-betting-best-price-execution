@@ -1,3 +1,3 @@
 # sports-betting-best-price-execution
 
-The betting arbitrage idea is simple, scraping best odds among all bookies on a particular sports events and work out the percentage of stake placed on all outcomes to guarantee winning (if possible).
+The arbitriag betting idea is simple, scraping best odds among all bookies on a particular sports event and working out the percentage of stake placed on all outcomes to guarantee profit (if possible).
