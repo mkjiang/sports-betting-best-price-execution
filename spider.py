@@ -2,7 +2,7 @@ import scrapy
 
 class BetSpider(scrapy.Spider):
     name = 'betspider'
-    start_urls = ['https://www.betbrain.com/football/england/premier-league/']
+    start_urls = ['https://bbfeapi.betbrain.com/httphs?method=get']
 
     def parse(self, response):
         for title in response.css('h2.entry-title'):
